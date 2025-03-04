@@ -1,0 +1,19 @@
+{
+    "name": "konstating_beloglazov/bx-simple-mdl",
+    "type": "library",
+    "require": {
+        "php": "8.0.28"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyMDL\\Template\\": "modules/mymdl_template/lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Konstantin Beloglazov",
+            "email": "abbcccddddeeeee@ya.ru"
+        }
+    ],
+    "version": "1.0.0"
+}
